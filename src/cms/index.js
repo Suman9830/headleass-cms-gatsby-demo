@@ -50,7 +50,7 @@ CMS.init({
   config: {
     backend: {
       name: 'git-gateway',
-      branch: 'master',
+      branch: 'main',
     },
     // publish_mode: 'editorial_workflow',
     media_folder: 'static/img',
