@@ -3,7 +3,7 @@ templateKey: site-data
 published: false
 name: Suman Debnath
 jobTitle: Job Title
-siteName: "{{site_name}}"
+siteName: "{{Some Site name}}"
 siteUrl: https://{{site_url}}
 siteAnalytics: null
 favicon: /img/favicon.png
