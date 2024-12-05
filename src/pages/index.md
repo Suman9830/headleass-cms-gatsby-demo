@@ -1,18 +1,19 @@
 ---
 templateKey: index-page
 pageSlug: /
-pageTitle: "{{Suman Debnath}}, {{Some Job}}"
-metaDescription: Personal website of {{client_name}}, {{job_title}}.
+pageTitle: Suman Debnath, Some Job
+metaDescription: Personal website of Suman Debnath, Publisher. No thing moch
 published: true
 schemaType: WebPage
-header: "{{Suman Debnath}}"
-subheader: "{{job_title}}"
+header: Suman Debnath
+subheader: Publisher
 featuredImage:
   src: /img/headshot.jpg
-  alt: Headshot of {{client_name}}
+  alt: Headshot of Suman Debnath
   caption: null
-missionStatement: "{{mission_statement}}"
-shortBiography: "{{short_bio}}"
+missionStatement: Live life king size
+shortBiography: "Lorem Ipsum is simply dummy text of the printing and
+  typesetting industry. Lorem Ipsum has been the industry's "
 learnMoreButton:
   link: /about/
   label: Read More
